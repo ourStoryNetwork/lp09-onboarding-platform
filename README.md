@@ -1,4 +1,4 @@
-# 0.9 OnboardingPi: Empowering Ecosystem Growth and Collaboration
+# 0.9 OnboardingPi: Empowering Platform Ecosystem Growth and Collaboration
 
 ## Your Complete Guide to Crafting a Dynamic Onboarding Program that Catalyzes the Growth of Your Open Source Platform Ecosystem
 
