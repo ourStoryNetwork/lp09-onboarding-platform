@@ -1,11 +1,11 @@
 # 0.9 OnboardingPi: Empowering Ecosystem Growth and Collaboration
 ## Your Complete Guide to Crafting a Dynamic Onboarding Program that Catalyzes the Growth of Your Open Source Platform Ecosystem
 ## Introduction
-Welcome to the "0.9 OnboardingPi" Repository by **ourStory: Everything Is Music**. Creating an onboarding program for any company is a challenge, and it's argualble even harder for decentralized and open source platforms. This repo is a template for anyone who wants to streamline their project's Onboarding Program with oS3 (ourStory openSource operatingSystem). By completing this process, you will develop a unique and comprehensive Onboarding Program that empowers contributors, nonprofit organizations, small businesses, and investors alike. Specifically, you will create:
-* Platform Ecosystem Metadata: Complete a set of questions to populate the metadata that defines your ecosystem [Platform Design Engineering]
-* Platform Ecosystem Pitch Deck: Publish a presentation that promotes the Minimum Viable Product (MVP) for your ecosystem based on your platform's golden path [Machine Learning]
-* Platform Ecosystem Onboarding Program: Draft the proof-of-work blockchain protocol that clearly outlines the deliverables people will complete to join your project [Blockchain Technology]
-* Platform Ecosystem Manifesto: Complete a manifesto to tell an engaging story that paints the picture of your ecosystem's vision [Biomimicry Innovation]
+Welcome to the "0.9 OnboardingPi" Repository by **ourStory: Everything Is Music**. Creating an onboarding program for any company is a challenge, and it's argualble even harder for decentralized and open source platforms. This repo is a template for anyone who wants to streamline their project's Onboarding Program with oS3 (ourStory openSource operatingSystem). By completing this process, you will develop a unique and comprehensive Onboarding Program that empowers contributors, nonprofit organizations, small businesses, and investors alike. Specifically, you will create the following for your platform ecosystem:
+* Metadata: Complete a set of questions to populate the metadata that defines your ecosystem [Platform Design Engineering]
+* Pitch Deck: Publish a presentation that promotes the Minimum Viable Product (MVP) for your ecosystem based on your platform's golden path [Machine Learning]
+* Onboarding Program: Draft the proof-of-work blockchain protocol that clearly outlines the deliverables people will complete to join your project [Blockchain Technology]
+* Manifesto: Complete a manifesto to tell an engaging story that paints the picture of your ecosystem's vision [Biomimicry Innovation]
 
 This process is the first step towards creating your 9 dimensional Internal Developer Platform (IDP) inspired by Backstage. Join us in fostering innovation and collaboration as we bridge the gap between digital and physical innovation through Platform and Civil Engineering.
  
