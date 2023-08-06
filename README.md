@@ -1,4 +1,34 @@
 # 09-OnboardPi
+## b09onboarding
+Clone this repository.
+Edit the b09onboarding.md file in your cloned repository with your responeses to each question.
+## b90training
+Edit the b90training.md file in your cloned repository to create a draft manifesto inspired by The Browser Company.
+## b18governance
+Edit the b18governance.md file in your cloned respository to review your deliverables and define the Owner, Provider, Producer, and Consumer for your platform.
+## b81operations
+Edit the b81operations.md file in your cloned repository to review and update your software catalog.
+## b27product
+Edit the b27product.md file in your cloned repository to define a 4-step process to describe your Minimum Viable Product.
+## b72design
+Clone and edit each of the Figma templates listed in the b72design.md file in your cloned repository to create a design system for your onboarding platform.
+## b36story
+Answer each of the prompts in the b36story.md file in your cloned repository to generate the metadata for your pitch deck. Once completed, update the values in your design template to generate the PDF for your pitch deck.
+
+Create an Instagram account for your organization.
+## b63marketing
+Complete the prompts in your b63marketing.md file to select 4 books that will define the marketing campaign for your onboarding & training Platforms
+## b45publication
+Review the b45publication.md file in your cloned repository to update the fields that you would like to change to introduce your publicationPodcast.
+
+Create a substack publication for your organization [link to tutorial]
+## b54portfolio
+Revew b54portfolio.md in your cloned repository to update the prompts to define your onboarding proposal based on each of the previous steps that you completed. Populate your proposal design template once compelted.
+
+Create a readme file for your organization's profile and copmlete the template to populate your platform ecosystem's account for oS3.
+
+------
+
 oS3 is an open source storytelling library for creating self-sufficient operating systems, and once upon a time, [YOU] decided it wanted to use oS3 to gain [NEED].
 
 To spark innovative ideas, [YOU] uses analogies to create stories that represent it as a [Eukaryotic cell]. Its initial journey is centered around discovering its [Cell Membrane].
