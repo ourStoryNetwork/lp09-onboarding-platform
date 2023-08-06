@@ -1,5 +1,5 @@
 # 0.9 OnboardingPi: Empowering Ecosystem Growth and Collaboration
-## Catalyze Growth: Your Complete Guide to Crafting a Dynamic Onboarding Platform for Your Open Source Ecosystem
+## Your Complete Guide to Crafting a Dynamic Onboarding Platform that Catalyzes the Growth of Your Open Source Ecosystem
 
 A template for a simple 10-part onboarding program to create an open source platform ecosystem that welcomes individuals, nonprofits, businesses, and investors into your project.
 Clone this repository.
