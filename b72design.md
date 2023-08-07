@@ -5,7 +5,7 @@ After completing [b27product](b27product.md), this is the sixth step to create y
 
 #### What is the problem that your Ideal Customer Profile (ICP) is dealing with? Try to keep your problem statement to less than 15 words.
 ```
-[Peoplare] [are forced to live in cities that operate as outdated pipeline businesses] 
+[Peopl] [are forced to live in cities that operate as outdated pipeline businesses] 
 ```
 
 #### What are four negative outcomes that your Ideal Customer Profile experiences because of their problem?
@@ -39,6 +39,18 @@ After completing [b27product](b27product.md), this is the sixth step to create y
 2. [Personalize repository to create your platform's metadata]
 3. [Prepare and publish each deliverable to form your platform ecosystem]
 4. [Implement Go-To-Market Strategy to onboard investors and contributors]
+```
+
+## 2.7 Underlying Magic
+
+#### What are 6 characteristics of the underlying innovation that makes your Minimum Viable Product valuable?
+```
+1.
+2.
+3.
+4.
+5.
+6. 
 ```
 
 ## 7.2 Value Proposition
@@ -112,12 +124,18 @@ After completing [b27product](b27product.md), this is the sixth step to create y
 4. [NAME]: [EXPERIENCE]
 ```
 
-## 4.5 Team
+## 5.4 Financial Projections
 
-#### Who are the main 1-4 team members and a brief description of their contribution?
+#### What are you platform ecosystem's 3 phasess, revenue projections, income projections, EBIT, and description?
 ```
-1. [NAME]: [EXPERIENCE]
-2. [NAME]: [EXPERIENCE]
-3. [NAME]: [EXPERIENCE]
-4. [NAME]: [EXPERIENCE]
+1. [Phase 1]; [REVENUE]; [INCOME]; [EBIT]; [DESCRIPTION]
+2. [Phase 2]; [REVENUE]; [INCOME]; [EBIT]; [DESCRIPTION]
+3. [Phase 3]; [REVENUE]; [INCOME]; [EBIT]; [DESCRIPTION]
+```
+
+## 0.9/9.0 Closing
+
+#### What is the tagline that will introduce and close your pitch deck?
+```
+Disrupt [WE_0.9.0]'s [INDUSTRY] to [BENEFIT] with [TECHNOLOGY SUMMARY]
 ```
