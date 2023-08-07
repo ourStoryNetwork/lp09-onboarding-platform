@@ -1,52 +1,54 @@
-# hu3 Onboarding MVP Presentation - Notion TEMPLATE [oS3 0.9.2 b27 v0.00]
+# 0.9_b27product
+
+After completing [b81operations](b81operations.md), this is the fifth step to create your onboarding program. Replace the words and phrases in the brackets below to outline the high level process for your minimum viable product.
 
 [Arc from The Browser Company](https://arc.net/)
 
-The content below is a remix of Arc’s landing page to help our decentralized team understand our vision. The intention is to (1) give us a place to start for crafting our vision based on a company we admire and (2) promote the work the Arc community does in hopes of driving more people to use the browser.
+The content below is a remix of Arc’s landing page to help our decentralized team understand our vision. The intention is to (1) give us a place to start for presenting a minimum viable product based on a product we admire and (2) promote the work the Arc community does in hopes of driving more people to use the browser.
 
 ---
 
-oS3Pi_CYTO (YOU/NEED)
+oS3Pi_CYTO: individuals (YOU/NEED)
 
-# [DEK] is the [institution] replacement [we’ve] been waiting for.
+# [oS3] is the [institution] replacement [we’ve] been waiting for.
 
-{How do you want to change your city?}
+{1. Identify a problem that you want to solve in your city.}
 
-[Download [DEK]]
+[Download [oS3]]
 
-*FOR [ANY PLATFORM] AND [LATER]
+*FOR [GitHub], [Notion], AND [Anytype]
 
-[Image of DEK landing page (full screen) in an Arc Browser]
+[Image of oS3 landing page (full screen) in an Arc Browser]
 
 [Scroll of different quotes about the product]
 
 ---
 
-144phiPi_MAMA (GO/SEARCH)
+144phiPi_MAMA: nonprofits (GO/SEARCH)
 
-# An [institution] that doesn’t just [maintain corruption] — it [enables nonprofits to define its values].
+# An [institution] that doesn’t [support corruption] — it [empowers nonprofits to define its values].
 
-{Connect with nonprofits who are creating solutions to your problem}
+{2. Create a proposal based on existing nonprofit solutions.}
 
 [Free] and [open source], [DEK] [adapts] to how you [want to transform your city].
 
 ---
 
-432 - businesses (FIND/TAKE)
+432ourPI_PAPA: businesses (FIND/TAKE)
 
 # [Space] for [small businesses] [to shine].
 
-{Grow a portfolio of Small businesses who want to help your nonprofit ecosystem thrive.}
+{3. Connect with small businesses who will turn your proposal into a platform plugin.}
 
 [Effectively] [manage] [your platform with leading technologies] — [Machine Learning], [Blockchain Technology], [Biomimicry Innovation] — all in one [view] with [portfolioWallet].
 
 ---
 
-369 - institutions (RETURN/CHANGED)
+369myPi_YOGA: institutions (RETURN/CHANGED)
 
 # Your [project], your [city].
 
-{Submit your ecosystem to your city agency for broader access to financing and support.}
+{4. Submit your platform ecosystem to your city agency to gain access to financing and community support.}
 
 [Implement] your [citywide plan] with [templates], [funding], and more.
 
@@ -54,24 +56,24 @@ oS3Pi_CYTO (YOU/NEED)
 
 # The [power] of [creative freedom].
 
-[DEK] is [design engineered] [from the inside out] to be [secure] and [private]. We [only know about your public teams] or [completed projects].
+oS3] is [design engineered] [from the inside out] to be [secure] and [private]. We [only know about your public teams] or [projects].
 
 ---
 
-Way more [simple] than [Municipalities]. [DEK] [looks like] [the future of government].
+Way more [simple] than [Municipalities]. [oS3] [looks like] [the future of governance].
 
 [@USERNAME]
 
-[DEK] [brought calm] [to my confusion] that was my [community goals]. [I just want more].
+[oS3] [brought calm] [to the confusion] that was my [community goals]. [I just want more].
 
 [@USERNAME]
 
-[DEK] [is more than I imagined]. So [clean], [powerful] and [fun].
+[oS3] [is more than I imagined]. So [simple], [powerful] and [fun].
 
 [@USERNAME]
 
 ---
 
-# [Define] your new [place] [in your city].
+# [Define] [the future] [of your city].
 
-[Implement [DEK]]
+[Implement [oS3]]
