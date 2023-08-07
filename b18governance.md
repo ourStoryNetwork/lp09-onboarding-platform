@@ -7,5 +7,5 @@ After completing [b90training](b90training.md), this is the third step to create
 |:----------------------|:---------------------|:----------------------------|
 | oS3Pi_CYTO            | Platform Engineering | Freelancers                 |
 | 144phiPi_MAMA         | Machine Learning     | Agriculture Nonprofits      |
-| 432ourPi_PAPA         | Blockchain           | Small & Mediuam Enterprises |
+| 432ourPi_PAPA         | Blockchain           | Small & Medium Enterprises |
 | 369myPi_YOGA          | Biomimicry           | City Agencies               |
