@@ -1,5 +1,5 @@
 # 0.9_b90training
-This is the second step after completing [b90onboarding](b90onboarding.md). Replace each word/phrase in the brackets [] below to draft a manifesto for your platform ecosystem's onboarding program.
+This is the second step after completing [b09onboarding](b09onboarding.md). Replace each word/phrase in the brackets [] below to draft a manifesto for your platform ecosystem's onboarding program.
 
 [The Browser Company | Building Arc](https://thebrowser.company/)
 
