@@ -5,7 +5,7 @@ After completing [b27product](b27product.md), this is the sixth step to create y
 
 #### What is the problem that your Ideal Customer Profile (ICP) is dealing with? Try to keep your problem statement to less than 15 words.
 ```
-[Peopl] [are forced to live in cities that operate as outdated pipeline businesses] 
+[People] [are forced to live in cities that operate as outdated pipeline businesses] 
 ```
 
 #### What are four negative outcomes that your Ideal Customer Profile experiences because of their problem?
