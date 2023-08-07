@@ -1,7 +1,9 @@
+# 0.9_b81operations
 
+After completing [b18governance](b18governance.md), this is the fourth step to create your onboarding program. Review the table below to define the deliverables and software catalog for your onboarding program.
 
-## Software Catalog
-| beat          | Action Itesm | Software  |
+## Deliverables & Software Catalog
+| beat          | Deliverables | Software  |
 |---------------|-----------|-----------|
 | b09onboarding | Complete onboarding metadata | GitHub    |
 | b90training   | Draft onboarding manifesto | GitHub    |
