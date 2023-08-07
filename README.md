@@ -21,16 +21,16 @@ Follow the steps below to create your Platform Ecosystem's Onboarding Program:
 1. Select your Onboarding Agent[Link to agents]
 2. Clone this repository to your organization
 3. Complete the steps outlined in each of these files:
-  - [b09onboarding.md](b09onboarding.md)
-  - [b90training.md](b90training.md)
-  - [b18governance.md](b18governance.md)
-  - [b81operations.md](b81operations.md)
-  - [b27product.md](b27product.md)
-  - [b72design.md](b72design.md)
-  - [b36story.md](b36story.md)
-  - [b63marketing.md](b63marketing.md)
-  - [b45publication.md](b45publication.md)
-  - [b54portfolio.md](b54portfolio.md)
+    - [b09onboarding.md](b09onboarding.md)
+    - [b90training.md](b90training.md)
+    - [b18governance.md](b18governance.md)
+    - [b81operations.md](b81operations.md)
+    - [b27product.md](b27product.md)
+    - [b72design.md](b72design.md)
+    - [b36story.md](b36story.md)
+    - [b63marketing.md](b63marketing.md)
+    - [b45publication.md](b45publication.md)
+    - [b54portfolio.md](b54portfolio.md)
 4. Onboarding Agent Review and Addition to ourStory's database
 5. Implement Your Platform Ecosystem's Onboarding Program 
 
