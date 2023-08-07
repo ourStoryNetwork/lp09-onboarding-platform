@@ -21,7 +21,7 @@ Follow the steps below to create your Platform Ecosystem's Onboarding Program:
 1. Select your Onboarding Agent[Link to agents]
 2. Clone this repository to your organization
 3. Complete the steps outlined in each of these files:
-  - b09onboarding.md
+  - [b09onboarding.md](b09onboarding.md)
   - b90training.md
   - b18governance.md
   - b81operations.md
