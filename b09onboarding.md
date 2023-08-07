@@ -3,12 +3,12 @@ After you clone this repository, this will be the first step that you take to cr
 
 ## 0.9.0 Define ourStory openSource operatingSystem for Your Platform Ecosystem
 
-#### Think of yourself as both the singularity and mutiverse of the ecosystem you're creating. What city will you transform with what you create?
+#### Think of yourself as both the singularity and mutiverse of the ecosystem you're creating. What city will you transform with your ecosystem?
 ```
 WE_0.9.0 = [ENTER YOUR CITY HERE]
 ```
 
-#### Think of the positive impat that you want to create with your ecosystem (ex. Collaboration, Creative Freedom, Decentralization, etc.). What positive concept are you bringing to the city you selected?
+#### Think of the positive impat that you want to create with your ecosystem (ex. Collaboration, Creative Freedom, Decentralization, etc). What positive concept are you bringing to the city you selected?
 ```
 NEED_0.9.0 = [ENTER YOUR POSITIVE IMPAT HERE]
 ```
@@ -33,12 +33,12 @@ FIND_0.9.0 = [Water: Cymatics - 174 Hz (defaut - change to whatever you'd like)]
 TAKE_0.9.0 = [Backstage (defaut - change to whatever you'd like)]
 ```
 
-#### Let's think about your ecosystem as a game. What is it that you and your community will be building for people? What category does your product fit into? Complete this statement: "We are creating a [RETURN_0.9.0] Ecosystem."
+#### Let's think about your ecosystem as a game. What product will you and your community will be building? What category does your product fit into? Complete this statement: "We are creating a [RETURN_0.9.0] Ecosystem."
 ```
 RETURN_0.9.0 = [Platform (defaut - change to whatever you'd like)] Ecosystem
 ```
 
-#### Think about how Google operates within the Alphebet ecosystem. What do you want to name the ecosystem that your business, your partners, and your competitors operate within?
+#### Think about how Google operates within the Alphabet ecosystem. What do you want to name the ecosystem that your business, your partners, and your competitors operate within?
 ```
 CHANGED_0.9.0 = [ENTER YOUR ECOSYSTEM NAME HERE]
 ```
