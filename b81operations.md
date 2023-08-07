@@ -5,13 +5,13 @@ After completing [b18governance](b18governance.md), this is the fourth step to c
 ## Deliverables & Software Catalog
 | beat          | Deliverables | Software  |
 |---------------|-----------|-----------|
-| b09onboarding | Complete onboarding metadata | GitHub    |
-| b90training   | Draft onboarding manifesto | GitHub    |
-| b18governance | Assign platform players | GitHub    |
-| b81operations | Outline deliverables and software catalog | GitHub    |
-| b27product    | Publish Minimum Viable Product presentation | GitHub    |
+| b09onboarding | Complete onboarding metadata | GitHub Repository    |
+| b90training   | Draft onboarding manifesto | GitHub Wiki    |
+| b18governance | Assign platform players | GitHub Discussions    |
+| b81operations | Outline deliverables and software catalog | GitHub Projects    |
+| b27product    | Publish Minimum Viable Product presentation | GitHub Pages    |
 | b72design     | Complete onboarding design system | Figma     |
-| b36story      | Publish Pitch Deck | Instagram |
-| b63marketing  | Launch Go-To-Market Strategy | Twitter   |
+| b36story      | Publish Pitch Deck | Instagram Stories |
+| b63marketing  | Launch Go-To-Market Strategy | Twitter (X) Threads   |
 | b45publication| Create Publication Profile | Substack  | 
-| b54portfolio  | Publish Onboarding Program Proposal | GitHub    |
+| b54portfolio  | Publish Onboarding Program Proposal | PayHip    |
