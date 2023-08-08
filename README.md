@@ -1,6 +1,6 @@
 # 0.9 OnboardingPi: Empowering Platform Ecosystem Growth and Collaboration
 
-## Your Complete Guide to Crafting a Dynamic Onboarding Program that Catalyzes the Growth of Your Open Source Platform Ecosystem
+## Transform any project idea into a platform ecosystem and develop an Onboarding Program to attract your first open source contributors and investors
 
 ## Introduction
 
