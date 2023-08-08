@@ -17,10 +17,6 @@ Welcome to the "0.9 OnboardingPi" Repository by **ourStory: Everything Is Music*
 * b45publication: A draft "About" section for your platform ecosystem's publication podcast (Substack, YouTube)
 * b54portfolio: A proof-of-work protocol and payment gateway for investors (GitHub Sponsors)
 
-* Pitch Deck: Publish a presentation that promotes the Minimum Viable Product (MVP) for your ecosystem based on your platform's golden path [Machine Learning]
-* Onboarding Program: Draft the proof-of-work blockchain protocol that clearly outlines the deliverables people will complete to join your project [Blockchain Technology]
-* Manifesto: Complete a manifesto to tell an engaging story that paints the picture of your ecosystem's vision [Biomimicry Innovation]
-
 This process is the first step towards creating your 9 dimensional Internal Developer Platform (IDP) inspired by Backstage. Join us in fostering innovation and collaboration as we bridge the gap between digital and physical innovation through Platform and Civil Engineering.
 
 ## How It Works
