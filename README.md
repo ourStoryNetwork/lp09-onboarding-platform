@@ -42,6 +42,8 @@ Find a typo, bug, or think of a much easier way to create an onboarding program?
 
 ## Known Issues
 This repository/tutorial is a work in progress. Here are the top three items that we're focused on. If you have others that you think we should incorporate, please send us an email (jacques@trainfarb.com)
+- Each of these files are rough drafts. Each step will have illustrations and diagrams to make this process easier to follow. (We're in the early adoptor phase, so please don't expect perfection)
+- There are a lot of repeated variables throughout the various files. We need to add global variables that can be used throughout this process to make it easier on both the player and onboarding agent. Currently, we're thinking of streamlining this process with Jekyll and GitHub Pages so this can have a much better design with dynamic variables.
 - Populate steps for each beat/deliverable .md file
 - Add introductory video or diagram to the "How it works" section of this README
 - Create a streamlined process so the public can review, add, and complete Issues
