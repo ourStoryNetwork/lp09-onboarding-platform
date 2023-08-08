@@ -12,7 +12,7 @@ After completing [b72design](b72design.md), this is the seventh step to create y
 4. Science based: we want to build a world that can teach people concepts that people can apply in their day-to-day lives
 5. Multiple intelligent species: there are 4 key players in a platform ecosystem, and we will personify them differently so they can create interesting stories
 
-
+## b09onboarding
 #### b09onboarding: What natural system inspires the intelligent species that own the platform ecosystem in your brand mythology?
 ```
 Owner = [CHANGED_0.9.0] = Individuals = [SEARCH_0.9.0]
@@ -23,6 +23,7 @@ Owner = [CHANGED_0.9.0] = Individuals = [SEARCH_0.9.0]
 ep0_[CHANGED_0.9.3]
 ```
 
+## b90training
 #### b90training: What natural system inspires the intelligent species that acts as providers (setting/interface) in your platform ecosystem's mythology?
 ```
 Providers = [CHANGED_0.9.1] = Nonprofits = [SEARCH_0.9.1]
@@ -33,6 +34,7 @@ Providers = [CHANGED_0.9.1] = Nonprofits = [SEARCH_0.9.1]
 [ENTER SONG AND ARTIST NAME HERE]
 ```
 
+## b18governance
 #### b18governance: What natural system inspires the intelligent species that acts as producers (hero/main character) in your platform ecosystem's mythology?
 ```
 Producers = [CHANGED_0.9.2] = Businesses = [SEARCH_0.9.2]
@@ -43,6 +45,7 @@ Producers = [CHANGED_0.9.2] = Businesses = [SEARCH_0.9.2]
 [ENTER SONG AND ARTIST NAME HERE]
 ```
 
+## b81operations
 #### b81operations: What natural system inspires the intelligent species that acts as consumers (mentor) in your platform ecosystem's mythology?
 ```
 Consumers = [CHANGED_0.9.3] = Institutions = [SEARCH_0.9.3]
@@ -53,6 +56,7 @@ Consumers = [CHANGED_0.9.3] = Institutions = [SEARCH_0.9.3]
 [ENTER SONG AND ARTIST NAME HERE]
 ```
 
+## b27product
 #### b27product: What will represent the Minimum Viable Product that your hero attains to transform the world in your brand mythology?
 ```
 [ENTER YOUR MVP REPRESENTATION HERE]
@@ -63,6 +67,7 @@ Consumers = [CHANGED_0.9.3] = Institutions = [SEARCH_0.9.3]
 [ENTER SONG AND ARTIST NAME HERE]
 ```
 
+## b72design
 #### b72design: What challenge will guide the path the hero creates for itself in your brand mythology?
 ```
 0.9 OnboardingPi: How to create an onboarding program for a platform ecosystem
@@ -73,6 +78,7 @@ Consumers = [CHANGED_0.9.3] = Institutions = [SEARCH_0.9.3]
 [ENTER SONG AND ARTIST NAME HERE]
 ```
 
+## b36story
 #### b36story: How will you visualize the transformation from the beginning to the end of your hero's journey?
 ```
 The growth of a tree system from embryo to climax community
@@ -83,6 +89,7 @@ The growth of a tree system from embryo to climax community
 [ENTER SONG AND ARTIST NAME HERE]
 ```
 
+## b63marketing
 #### b63marketing: What is the main egoic challenge created by the consumer/institution's shadow that you need to overcome?
 ```
 Language Institution: Censorship
@@ -93,6 +100,7 @@ Language Institution: Censorship
 [ENTER SONG AND ARTIST NAME HERE]
 ```
 
+## b45publication
 #### b45publication: What is the topic that offers the lessons that your hero ultimately learns after achieving its goal?
 ```
 Language Institution: Censorship
@@ -103,6 +111,7 @@ Language Institution: Censorship
 [ENTER SONG AND ARTIST NAME HERE]
 ```
 
+## b54portfolio
 #### b54portfolio: What blockchain protocol will define the work required for the hero to attain its goal?
 ```
 Bitcoin Proof-of-Work Protocol
