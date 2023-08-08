@@ -12,10 +12,10 @@ Welcome to the "0.9 OnboardingPi" Repository by **ourStory: Everything Is Music*
 * b81operations: A shared workspace to conduct meetings and workshops (GitHub Projects; FigJam)
 * b27product: A website to present your minimum viable product (GitHub Pages; Figma)
 * b72design: A Pitch Deck to attract contributors, nonprofits, small businesses, and investors (Figma)
-* b36story: A worldbuilding outline and music playlist to start your brand mythology (Instagram, Affinity Designer)
+* b36story: A proof-of-work protocol storyboard and music playlist to start your brand mythology (Instagram, Affinity Designer)
 * b63marketing: A book quote inspired Go-To-Market Strategy for your your platform ecosystem (GitHub Projects; Hypefury)
 * b45publication: A draft "About" section for your platform ecosystem's publication podcast (Substack, YouTube)
-* b54portfolio: A proof-of-work protocol and payment gateway for investors (GitHub Sponsors)
+* b54portfolio: A proof-of-work proposal and payment gateway for investors (GitHub Sponsors)
 
 This process is the first step towards creating your 9 dimensional Internal Developer Platform (IDP) inspired by Backstage. Join us in fostering innovation and collaboration as we bridge the gap between digital and physical innovation through Platform and Civil Engineering.
 
