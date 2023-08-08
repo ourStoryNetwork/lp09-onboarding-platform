@@ -10,7 +10,7 @@ Welcome to the "0.9 OnboardingPi" Repository by **ourStory: Everything Is Music*
 * b90training: A draft manifesto that introduces your platform ecosystem's public documentation (GitHub Wiki; FigJam)
 * b18governance: A collaborative communication forum to submit each deliverable with your onboarding agent (GitHub Discussions; FigJam)
 * b81operations: A shared workspace to conduct meetings and workshops (GitHub Projects; FigJam)
-* b27product: A website to present your minimum viable product (GitHub Pages; Figma)
+* b27product: A website to present your minimum viable product (GitHub Pages; Figma -> Electron)
 * b72design: A Pitch Deck to attract contributors, nonprofits, small businesses, and investors (Figma)
 * b36story: A proof-of-work protocol storyboard and music playlist to start your brand mythology (Instagram, Affinity Designer)
 * b63marketing: A book quote inspired Go-To-Market Strategy for your your platform ecosystem (GitHub Projects; Hypefury)
