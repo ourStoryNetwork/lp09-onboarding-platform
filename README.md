@@ -1,12 +1,22 @@
-# 0.9 OnboardingPi: Turn Your Idea Into a Platform Ecosystem for Growth and Collaboration
+# 0.9 OnboardingPi: Turn Your Creative Idea Into a Platform Ecosystem for Growth and Collaboration
 
 ## Transform any project idea into a platform ecosystem and develop an Onboarding Program to attract your first open source contributors and investors
 
 ## Introduction
 
-Welcome to the "0.9 OnboardingPi" Repository by **ourStory: Everything Is Music**. Creating an onboarding program for any company is a challenge, and it's argualble even harder for decentralized and open source platforms. This repo is a template for anyone who wants to streamline their project's Onboarding Program with oS3 (ourStory openSource operatingSystem). By completing this process, you will develop a unique and comprehensive Onboarding Program that empowers contributors, nonprofit organizations, small businesses, and investors alike. Specifically, you will create the following for your platform ecosystem:
+Welcome to the "0.9 OnboardingPi" Repository by **ourStory: Everything Is Music**. Creating an onboarding program for any company is a challenge, and it's argualble even harder for decentralized and open source platforms. This GitHub Repository is a template for anyone who wants to streamline their project's Onboarding Program with oS3 (ourStory openSource operatingSystem). By completing this process, you'll reimagine your existing idea as a platform ecosystem and develop a unique and comprehensive Onboarding Program that empowers contributors, nonprofits, small businesses, and investors to support your growth. Specifically, you will create the following for your platform ecosystem:
 
-* Metadata: Complete a set of questions to populate the metadata that defines your ecosystem [Platform Design Engineering]
+* b90onboarding: Metadata that acts as the DNA for the platform ecosystem that you're creating (GitHub Repository; FigJam)
+* b90training: A draft manifesto that introduces your platform ecosystem's public documentation (GitHub Wiki; FigJam)
+* b18governance: A collaborative communication forum to submit each deliverable with your onboarding agent (GitHub Discussions; FigJam)
+* b81operations: A shared workspace to conduct meetings and workshops (GitHub Projects; FigJam)
+* b27product: A website to present your minimum viable product (GitHub Pages; Figma)
+* b72design: A Pitch Deck to attract contributors, nonprofits, small businesses, and investors (Figma)
+* b36story: A worldbuilding outline and music playlist to start your brand mythology (Instagram, Affinity Designer)
+* b63marketing: A book quote inspired Go-To-Market Strategy for your your platform ecosystem (GitHub Projects; Hypefury)
+* b45publication: A draft "About" section for your platform ecosystem's publication podcast (Substack, YouTube)
+* b54portfolio: A proof-of-work protocol and payment gateway for investors (GitHub Sponsors)
+
 * Pitch Deck: Publish a presentation that promotes the Minimum Viable Product (MVP) for your ecosystem based on your platform's golden path [Machine Learning]
 * Onboarding Program: Draft the proof-of-work blockchain protocol that clearly outlines the deliverables people will complete to join your project [Blockchain Technology]
 * Manifesto: Complete a manifesto to tell an engaging story that paints the picture of your ecosystem's vision [Biomimicry Innovation]
