@@ -1,4 +1,4 @@
-# 0.9 OnboardingPi: Empowering Platform Ecosystem Growth and Collaboration
+# 0.9 OnboardingPi: Turn Your Idea Into a Platform Ecosystem for Growth and Collaboration
 
 ## Transform any project idea into a platform ecosystem and develop an Onboarding Program to attract your first open source contributors and investors
 
