@@ -121,3 +121,8 @@ Bitcoin Proof-of-Work Protocol
 ```
 [ENTER SONG AND ARTIST NAME HERE]
 ```
+
+## After completing these steps, create an instagram account for your business and paste a link to the profile below:
+```
+[Instagram Profile Link]
+```
