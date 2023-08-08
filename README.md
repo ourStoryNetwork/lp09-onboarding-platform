@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to the "0.9 OnboardingPi" Repository by **ourStory: Everything Is Music**. Creating an onboarding program for any company is a challenge, and it's argualble even harder for decentralized and open source platforms. This GitHub Repository is a template for anyone who wants to streamline their project's Onboarding Program with oS3 (ourStory openSource operatingSystem). By completing this process, you'll reimagine your existing idea as a platform ecosystem and develop a unique and comprehensive Onboarding Program that empowers contributors, nonprofits, small businesses, and investors to support your growth. Specifically, you will create the following for your platform ecosystem:
+Welcome to the "0.9 OnboardingPi" Repository by **ourStory: Everything Is Music**. Creating an onboarding program for any company is a challenge, and it's argualbly even harder for decentralized and open source platforms. This GitHub Repository is a template for anyone who wants to streamline their project's Onboarding Program with oS3 (ourStory openSource operatingSystem). By completing this process, you'll reimagine your existing idea as a platform ecosystem and develop a unique and comprehensive Onboarding Program that empowers contributors, nonprofits, small businesses, and investors to support your growth. Specifically, you will create the following for your platform ecosystem:
 
 * b90onboarding: Metadata that acts as the DNA for the platform ecosystem that you're creating (GitHub Repository; FigJam)
 * b90training: A draft manifesto that introduces your platform ecosystem's public documentation (GitHub Wiki; FigJam)
